@@ -4703,7 +4703,7 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #2c3e50 !important;
-  background-image: url('software.jpg');
+  background-image: url('software.jpg') no-repeat;
   object-fit: cover; }
 
 a.bg-primary:hover, a.bg-primary:focus,
